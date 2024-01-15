@@ -35,7 +35,7 @@ This reason lead me to look deeper on how this factors can affect and how much d
 	- seattle_calendar.csv
 	- seattle_reviews.csv
 	- boston_calendar.csv
-	- boston_calendar.csv
+	- boston_reviews.csv
 
 ## Run the code
 
