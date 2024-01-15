@@ -1,8 +1,4 @@
-## A README.md file that communicates the libraries used, 
-## the motivation for the project, 
-## the files in the repository with a small description of each, 
-## a summary of the results of the analysis, and necessary acknowledgments
-<h3 align="center">Airbnb monthly Analysys</h3>
+<h3 align="center">Airbnb monthly Analysis</h3>
 
 <p align="center">
   Analysis of Airbnb datasets from Boston and Seattle
@@ -13,7 +9,7 @@
 - [Introduction](#introduction)
 - [Motivation](#motivation)
 - [What's included](#whats-included)
-- [Run the code](#coderunning)
+- [Run the code](#run-the-code)
 - [Creators](#creators)
 - [Thanks](#thanks)
 
