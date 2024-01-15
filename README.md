@@ -9,7 +9,7 @@
 - [Introduction](#introduction)
 - [Motivation](#motivation)
 - [What's included](#whats-included)
-- [Run the code](#coderunning)
+- [Run the code](#run-the-code)
 - [Creators](#creators)
 - [Thanks](#thanks)
 
