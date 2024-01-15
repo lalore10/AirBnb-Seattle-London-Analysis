@@ -1,4 +1,4 @@
-<h3 align="center">Airbnb monthly Analysys</h3>
+<h3 align="center">Airbnb monthly Analysis</h3>
 
 <p align="center">
   Analysis of Airbnb datasets from Boston and Seattle
