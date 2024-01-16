@@ -56,3 +56,8 @@ Thanks to kaggle:
  - where I could create a jupyter notebook and interact with it saving efforts due to the fact that this utility is integrated in the webpage without need to download more things to local.
  - from where I could search and salect the datasets to work with
 Thanks to Udacity, for having a program to start having a look and learning about data science and how to analyse and treat the data.
+
+## Blog post
+
+You can have a look to the blog post analysing the results in the following link:
+https://medium.com/@lorejim1_76315/are-you-a-flexible-traveller-c6005a23a27b
